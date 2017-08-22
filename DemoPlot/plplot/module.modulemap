@@ -1,0 +1,4 @@
+module plplot {
+    header "/usr/local/include/plplot/plplot.h"
+    export *
+}
